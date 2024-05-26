@@ -105,8 +105,8 @@ ___
 
 **adding links**
 
-- My  favorite search engine is [Google] (https://google.com "the best")
-- <https://www.thinkdragons.org>
+- My  favorite search engine is [Google](<https://google.com> "the best")
+- [a link](<https://shop4web.ca> "A good link")
 - <fake@example.com>
 
 
